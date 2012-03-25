@@ -1,2 +1,4 @@
 gittest
+conflict test
 local file modified
+
