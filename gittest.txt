@@ -3,4 +3,4 @@ conflict test
 local file modified
 add comment at remote
 add more comment at remote
-
+gittest modified at local
