@@ -6,3 +6,5 @@ add more comment at remote
 gittest modified at local
 gittest modified at local again
 gittest modified at local first
+conflict test modified at remote first
+
