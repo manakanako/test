@@ -9,3 +9,4 @@ gittest modified at local first
 conflict test modified at local later
 conflict test modified at remote first
 branch1 created
+This is master branch.
