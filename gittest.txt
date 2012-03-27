@@ -9,3 +9,4 @@ gittest modified at local first
 conflict test modified at local later
 conflict test modified at remote first
 This is branch1 branch.
+ƒuƒ‰ƒ“ƒ`1‚Å•ÒW‚µ‚½
