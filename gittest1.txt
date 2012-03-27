@@ -3,4 +3,6 @@ this file modified at repository
 gittest1 modified at repository
 file modified at remote again
 gittest1 modified at remote later
+どうしたらコンフリクトを回避できるの？
+
 ブランチ1で編集。リモートとのコンフリクトを回避したい。
