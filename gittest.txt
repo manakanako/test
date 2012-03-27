@@ -8,4 +8,4 @@ gittest modified at local again
 gittest modified at local first
 conflict test modified at local later
 conflict test modified at remote first
-branch1 created
+This is branch1 branch.
